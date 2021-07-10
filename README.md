@@ -1,1 +1,1 @@
-# PaperShop
+# https://sergeymsky.github.io/PaperShop/
